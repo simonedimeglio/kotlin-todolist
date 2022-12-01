@@ -86,3 +86,4 @@ L'app prevede l'inserimento in futuro delle seguenti features:
  1. Interfaccia UI (*Android Studio*)
  2. Funzione per cambio nome di una Task (*update*)
  3. Check della password (*regex*)
+ 4. Check delle email (*regex*)
